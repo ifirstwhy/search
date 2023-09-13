@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+<script src="../../data/build.js"></script>
+<script>
+    window.location.href = 'http://www.yes24.com/searchcorner/Search?query=' + encodeCP949(getQueryString('q'));
+</script>
+</body>
+</html>
